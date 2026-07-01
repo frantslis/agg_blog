@@ -29,7 +29,7 @@ const POSTS = [
     spot: "VDNG, Kyiv",
     trick: "soul, mizu, p-star, frontside",
     type: "video",
-    youtubeId: "Tc62dynb2eaDZYhu",
+    youtubeId: "https://youtube.com/shorts/CifZCxz3giQ?si=Tc62dynb2eaDZYhu",
     images: [],
     body: [
       "30C degrees morning session. Back to flat setup on mesmers. Glad to enjoy my new Plastic Pushers t-shirt. Skated on rails and ledges."
