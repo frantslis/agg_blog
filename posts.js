@@ -29,7 +29,7 @@ const POSTS = [
     spot: "VDNG, Kyiv",
     trick: "soul, mizu, p-star, frontside",
     type: "video",
-    youtubeId: "https://youtube.com/shorts/CifZCxz3giQ?si=Tc62dynb2eaDZYhu",
+    youtubeId: "CifZCxz3giQ",
     images: [],
     body: [
       "30C degrees morning session. Back to flat setup on mesmers. Glad to enjoy my new Plastic Pushers t-shirt. Skated on rails and ledges."
@@ -53,17 +53,16 @@ const POSTS = [
     ]
   },
   {
-    id: "why-i-started",
-    title: "Why I Started This Log",
-    date: "2026-06-10",
-    spot: "",
+    id: "00001",
+    title: "F®@N+$ Li$ - Bå$ї©~36",
+    date: "2026-08-30",
+    spot: "Kyiv street",
     trick: "",
-    type: "text",
-    youtubeId: "",
+    type: "video",
+    youtubeId: "syXHBUIfjrk",
     images: [],
     body: [
-      "I've been skating aggressive inline for a while now, mostly without documenting any of it. This is me starting to actually track the process instead of just the highlight clips.",
-      "Expect a lot of failed attempts here, not just the clean ones. That's most of what skating actually is."
+      "My honest milestone result of almost 3 years of not regular but passionate adult person practice on aggressive inline skates. Filmed in Kyiv in august 2025. "
     ]
   }
 ];
