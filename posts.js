@@ -23,7 +23,7 @@
 
 const POSTS = [
   {
-    id: "00003",
+    id: "00004",
     title: "Back to flat setup on mesmers",
     date: "2026-07-01",
     spot: "VDNG, Kyiv",
@@ -33,6 +33,21 @@ const POSTS = [
     images: [],
     body: [
       "30C degrees morning session. Back to flat setup on mesmers. Glad to enjoy my new Plastic Pushers t-shirt. Skated on rails and ledges."
+    ]
+  },
+  {
+    id: "00003",
+    title: "fr8nts - street episode 1",
+    date: "2025-11-15",
+    spot: "Kyiv street",
+    trick: "soul, mizu, p-star, frontside",
+    type: "video",
+    youtubeId: "Q8izGN1RSzA",
+    images: [],
+    body: [
+      "Catching latest sunny days in November in Kyiv with spontaneous aggressive inline session on several spots mini-rail and ledges.",
+      "Meanwhile blackouts happen after russian attack. Reflecting on skating aims on my third aggressive inline season. Performing easy drops and basic tricks like miszou, soul, porn grinds.",
+      "Trying spins 180 and top acid, sweatstance, soul grinds."
     ]
   },
   {
@@ -55,7 +70,7 @@ const POSTS = [
   {
     id: "00001",
     title: "F®@N+$ Li$ - Bå$ї©~36",
-    date: "2026-08-30",
+    date: "2025-08-30",
     spot: "Kyiv street",
     trick: "",
     type: "video",
